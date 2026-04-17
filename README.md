@@ -1,89 +1,135 @@
-# Hi 👋, I'm Karan Gupta
+<div align="center">
 
-🚀 Full-Stack Developer | Machine Learning Enthusiast | DSA Practitioner  
+# 👋 Hey, I'm Karan Gupta
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=KaranGupta2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
+###  Full-Stack Developer |  ML Engineer | DL Enthusiast | Problem Solver
 
-💡 I enjoy building scalable systems, working with AI/ML, and solving complex problems using strong fundamentals.
+*Building scalable systems • Crafting elegant solutions • Exploring the frontier of AI*
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=KaranGupta2005&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/KaranGupta2005)
+[![GitHub Followers](https://img.shields.io/github/followers/KaranGupta2005?style=social)](https://github.com/KaranGupta2005)
 
-## 🌐 Connect with me
-- 📧 Email: guptakaran.port@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/karangupta3006/  
-- 💻 GitHub: https://github.com/KaranGupta2005  
-- 📊 LeetCode: https://leetcode.com/u/gupta_karan_/  
-- 🧠 GeeksforGeeks: https://www.geeksforgeeks.org/profile/guptakaran0j5s/
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Let's Connect
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
----
+[📧 Email](mailto:guptakaran.port@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/karangupta3006/) • [🐙 GitHub](https://github.com/KaranGupta2005) • [🎯 LeetCode](https://leetcode.com/u/gupta_karan_/) • [📚 GeeksforGeeks](https://www.geeksforgeeks.org/profile/guptakaran0j5s/)
 
-### 🌐 Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
 ---
 
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 💻 Tech Stack
 
-- Machine Learning  
-- Deep Learning  
-- RAG Pipelines  
-- LLM APIs  
-- Embeddings & Vector Databases  
-- Agentic AI Systems  
+**Languages:** C++ | Python | JavaScript | TypeScript | Java | SQL
 
----
+**Frontend:** React | Next.js | HTML | CSS | Responsive Design
 
-### 🧠 Core Skills
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- System Design Basics  
-- REST APIs & Backend Architecture  
+**Backend:** Node.js | Express | REST APIs | Authentication
+
+**Databases:** MongoDB | PostgreSQL | Firebase
+
+**ML/AI:** TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy
+
+**Tools:** Git | Docker | VS Code | Jupyter Notebook
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGupta2005&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranGupta2005&theme=tokyonight" />
-</p>
+> **Full-Stack Development** — Building end-to-end web applications with modern tech stacks  
+> **Machine Learning** — Developing and deploying ML models for real-world problems  
+> **Data Science** — Analyzing data and deriving insights to drive decisions  
+> **Competitive Programming** — Solving complex algorithmic problems efficiently  
+> **Open Source** — Contributing to community-driven projects
 
 ---
 
-## ✨ Current Focus
-- Scaling full-stack applications  
-- Exploring advanced ML systems & GenAI  
-- Strengthening DSA & problem-solving  
+## 📌 Featured Projects
+
+**[Cold-Mailer](https://github.com/KaranGupta2005/Cold-Mailer)** ⭐⭐  
+Automated email marketing platform with AI-powered personalization
+
+**[AQI Predictor](https://github.com/KaranGupta2005/AQI_Predictor)**  
+Real-time air quality forecasting using machine learning
+
+**[Recommendation System](https://github.com/KaranGupta2005/Recommendation-System)**  
+Collaborative filtering engine for intelligent recommendations
+
+**[Image Classifier](https://github.com/KaranGupta2005/Image-Classifier)**  
+CNN-based computer vision model for image recognition
 
 ---
 
-⭐️ From [KaranGupta2005](https://github.com/KaranGupta2005)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGupta2005&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaranGupta2005&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 My Philosophy
+
+I believe in writing **clean, maintainable code** and solving problems with **efficient algorithms**. Every project is an opportunity to learn, improve, and make a meaningful impact.
+
+**Currently exploring:**
+- 🏗️ System design and scalability patterns
+- 🤖 Generative AI and large language models
+- ☁️ Cloud architecture (AWS/GCP)
+- 📊 Advanced data engineering concepts
+
+---
+
+## 💪 What I Bring to the Table
+
+✨ **Strong Foundation** — Deep knowledge of Data Structures & Algorithms  
+🛠️ **Full-Stack Expertise** — Can build complete applications from scratch  
+🧠 **AI/ML Knowledge** — Hands-on experience with ML pipelines and deep learning  
+📈 **Data-Driven Approach** — Analytical thinking and problem-solving mindset  
+🤝 **Collaboration First** — Great communicator who loves working with teams  
+
+---
+
+## 🚀 Open To
+
+- 💼 Interesting projects and collaborations
+- 🎓 Technical discussions and knowledge sharing
+- 🌟 Building innovative solutions together
+- 🔗 Open source contributions
+
+<div align="center">
+
+**Let's create something amazing!**
+
+[📧 Email](mailto:guptakaran.port@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/karangupta3006/) | [🐙 GitHub](https://github.com/KaranGupta2005)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find my work interesting, star my repositories!
+
+*Last Updated: April 2026 | Made with ❤️*
+
+</div>
