@@ -17,13 +17,13 @@
 
 <div align="center">
 
-[📧 Email](mailto:guptakaran.port@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/karangupta3006/) • [🐙 GitHub](https://github.com/KaranGupta2005) • [🎯 LeetCode](https://leetcode.com/u/gupta_karan_/) • [📚 GeeksforGeeks](https://www.geeksforgeeks.org/profile/guptakaran0j5s/)
+[ Email](mailto:guptakaran.port@gmail.com) • [ LinkedIn](https://www.linkedin.com/in/karangupta3006/) • [ GitHub](https://github.com/KaranGupta2005) • [ LeetCode](https://leetcode.com/u/gupta_karan_/) • [ GeeksforGeeks](https://www.geeksforgeeks.org/profile/guptakaran0j5s/)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages:** C++ | Python | JavaScript | TypeScript | Java | SQL
 
@@ -65,7 +65,7 @@ CNN-based computer vision model for image recognition
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -77,7 +77,7 @@ CNN-based computer vision model for image recognition
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -87,40 +87,40 @@ CNN-based computer vision model for image recognition
 
 ---
 
-## 🎯 My Philosophy
+## My Philosophy
 
 I believe in writing **clean, maintainable code** and solving problems with **efficient algorithms**. Every project is an opportunity to learn, improve, and make a meaningful impact.
 
 **Currently exploring:**
-- 🏗️ System design and scalability patterns
-- 🤖 Generative AI and large language models
-- ☁️ Cloud architecture (AWS/GCP)
-- 📊 Advanced data engineering concepts
+-  System design and scalability patterns
+-  Generative AI and large language models
+- ️ Cloud architecture (AWS/GCP)
+-  Advanced data engineering concepts
 
 ---
 
-## 💪 What I Bring to the Table
+## What I Bring to the Table
 
-✨ **Strong Foundation** — Deep knowledge of Data Structures & Algorithms  
-🛠️ **Full-Stack Expertise** — Can build complete applications from scratch  
-🧠 **AI/ML Knowledge** — Hands-on experience with ML pipelines and deep learning  
-📈 **Data-Driven Approach** — Analytical thinking and problem-solving mindset  
-🤝 **Collaboration First** — Great communicator who loves working with teams  
+**Strong Foundation** — Deep knowledge of Data Structures & Algorithms  
+**Full-Stack Expertise** — Can build complete applications from scratch  
+**AI/ML Knowledge** — Hands-on experience with ML pipelines and deep learning  
+**Data-Driven Approach** — Analytical thinking and problem-solving mindset  
+**Collaboration First** — Great communicator who loves working with teams  
 
 ---
 
-## 🚀 Open To
+##  Open To
 
-- 💼 Interesting projects and collaborations
-- 🎓 Technical discussions and knowledge sharing
-- 🌟 Building innovative solutions together
-- 🔗 Open source contributions
+-  Interesting projects and collaborations
+-  Technical discussions and knowledge sharing
+-  Building innovative solutions together
+-  Open source contributions
 
 <div align="center">
 
 **Let's create something amazing!**
 
-[📧 Email](mailto:guptakaran.port@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/karangupta3006/) | [🐙 GitHub](https://github.com/KaranGupta2005)
+[ Email](mailto:guptakaran.port@gmail.com) | [ LinkedIn](https://www.linkedin.com/in/karangupta3006/) | [ GitHub](https://github.com/KaranGupta2005)
 
 </div>
 
