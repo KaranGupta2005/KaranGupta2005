@@ -42,11 +42,11 @@ Currently pursuing my **B.Tech at DTU**, I spend my time shipping projects, solv
 
 <br/>
 
-🏆 &nbsp;**2× Hackathon Winner** — Agentic AI & Logistics tracks  
-⚡ &nbsp;**Technical Executive** at IEEE DTU  
-🧩 &nbsp;**370+ problems** solved across LeetCode & GFG  
-🌱 &nbsp;Currently exploring **System Design**, **LLMs** & **Cloud**  
-📍 &nbsp;Based in **New Delhi, India**
+- 🏆 &nbsp;**2× Hackathon Winner** — Agentic AI & Logistics tracks
+- ⚡ &nbsp;**Technical Executive** at IEEE DTU
+- 🧩 &nbsp;**370+ problems** solved across LeetCode & GFG
+- 🌱 &nbsp;Currently exploring **System Design**, **LLMs** & **Cloud**
+- 📍 &nbsp;Based in **New Delhi, India**
 
 <br/>
 
@@ -63,39 +63,27 @@ Currently pursuing my **B.Tech at DTU**, I spend my time shipping projects, solv
 <table>
 <tr>
 <td align="center" width="130"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>ML / AI</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,linux&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,linux&theme=dark" /></td>
 </tr>
 </table>
 
@@ -121,15 +109,85 @@ Currently pursuing my **B.Tech at DTU**, I spend my time shipping projects, solv
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Cold-Mailer](https://github-readme-stats.vercel.app/api/pin/?username=KaranGupta2005&repo=Cold-Mailer&theme=tokyonight&hide_border=true)](https://github.com/KaranGupta2005/Cold-Mailer)
-[![AQI Predictor](https://github-readme-stats.vercel.app/api/pin/?username=KaranGupta2005&repo=AQI_Predictor&theme=tokyonight&hide_border=true)](https://github.com/KaranGupta2005/AQI_Predictor)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=KaranGupta2005&repo=Recommendation-System&theme=tokyonight&hide_border=true)](https://github.com/KaranGupta2005/Recommendation-System)
-[![Image Classifier](https://github-readme-stats.vercel.app/api/pin/?username=KaranGupta2005&repo=Image-Classifier&theme=tokyonight&hide_border=true)](https://github.com/KaranGupta2005/Image-Classifier)
+**⚡ [VOLTIX — AI EV Copilot](https://github.com/KaranGupta2005/VOLTIX)**
+
+ML-powered EV copilot with real-time range prediction, route optimization & a RAG-based LLM assistant. Reduced decision latency by 35%.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2B%20LLM-7b2ff7?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**📧 [Cold-Mailer](https://github.com/KaranGupta2005/Cold-Mailer)**
+
+Automated email outreach platform with AI-powered personalization. Streamlines cold email campaigns at scale.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖼️ [Image Captioner](https://github.com/KaranGupta2005/Image-Captioner)**
+
+Vision-language model using CNN-LSTM for automatic caption generation. Improved BLEU score by 18% via transfer learning.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/CNN%20%2B%20LSTM-0e75b6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 [Wanderlust](https://github.com/KaranGupta2005/Wanderlust)**
+
+Full-stack travel booking platform with 30+ active listings, booking management & optimized REST APIs. Reduced load time by 30%.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌫️ [AQI Predictor](https://github.com/KaranGupta2005/AQI_Predictor)**
+
+Real-time air quality forecasting using ML models trained on environmental sensor data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**� [Recommendation System](https://github.com/KaranGupta2005/Recommendation-System)**
+
+Collaborative filtering engine for intelligent, personalized content recommendations.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -139,27 +197,13 @@ Currently pursuing my **B.Tech at DTU**, I spend my time shipping projects, solv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="175"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=KaranGupta2005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="175"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranGupta2005&theme=tokyo-night&hide_border=true&area=true&line=00d4ff&point=7b2ff7&area_color=0e75b6&radius=6" />
-
-</div>
-
----
-
-<div align="center">
-
-### � Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
