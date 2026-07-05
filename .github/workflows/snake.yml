@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -15,10 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake animation
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: KaranGupta2005
@@ -26,13 +20,12 @@ jobs:
             dist/github-snake.svg?palette=github
             dist/github-snake-dark.svg?palette=github-dark&color_snake=00d4ff
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Push snake to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          force_orphan: true
-          user_name: "github-actions[bot]"
-          user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_message: "chore: update snake animation [skip ci]"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
+          single-commit: true
+          commit-message: "chore: update snake [skip ci]"

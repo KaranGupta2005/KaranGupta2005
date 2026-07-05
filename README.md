@@ -259,8 +259,8 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 <div align="center">
 
-<!-- Static language stats — generated daily by GitHub Actions into /generated/ -->
-<img src="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/main/generated/languages.svg" alt="Top Languages" onerror="this.style.display='none'"/>
+<!-- Static stats SVG — auto-generated daily by cicirello/user-statistician GitHub Action -->
+<img src="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/main/generated/stats.svg" alt="GitHub Stats" width="80%"/>
 
 </div>
 

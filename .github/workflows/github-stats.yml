@@ -1,12 +1,9 @@
-name: Generate GitHub Stats SVGs
+name: Generate GitHub Stats SVG
 
 on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -17,27 +14,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
-      - name: Generate stats images
-        uses: jstrieb/github-stats@master
+      - name: Generate stats SVG
+        uses: cicirello/user-statistician@v2
+        with:
+          image-file: generated/stats.svg
+          locale: en
+          color-scheme: dark
+          custom-title: "GitHub Stats"
+          include-title: true
+          featured-repository: ""
+          animated-image: true
         env:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EXCLUDED: ""
-          EXCLUDE_FORKED_REPOS: true
-        continue-on-error: true
-
-      - name: Move generated files
-        run: |
-          mkdir -p generated
-          mv github-stats-output/overview.svg generated/overview.svg 2>/dev/null || true
-          mv github-stats-output/languages.svg generated/languages.svg 2>/dev/null || true
-        continue-on-error: true
 
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/ 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: update stats SVGs [skip ci]"
-          git push || true
+          git add generated/stats.svg
+          git diff --staged --quiet || git commit -m "chore: update stats SVG [skip ci]"
+          git push

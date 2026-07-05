@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <style>
+    .title { fill: #00d4ff; font-size: 14px; font-weight: 600; font-family: 'Segoe UI', sans-serif; }
+    .text  { fill: #a9b1d6; font-size: 12px; font-family: 'Segoe UI', sans-serif; }
+  </style>
+  <rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="25" y="35" class="title">Stats loading... (auto-updated daily via GitHub Actions)</text>
+  <text x="25" y="65" class="text">⏳ Run the "Generate GitHub Stats SVG" workflow once to populate this card.</text>
+</svg>
