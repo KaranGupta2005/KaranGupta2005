@@ -14,17 +14,19 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KaranGupta2005&label=Profile+Views&color=00d4ff&style=flat-square)](https://github.com/KaranGupta2005)
+[![Profile Views](https://komarev.com/ghpvc/?username=KaranGupta2005&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/KaranGupta2005)
 &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/KaranGupta2005?label=Followers&style=flat-square&color=7b2ff7&labelColor=0d0d0d)](https://github.com/KaranGupta2005)
+[![GitHub Followers](https://img.shields.io/github/followers/KaranGupta2005?label=Followers&style=for-the-badge&color=7b2ff7&labelColor=161b22&logo=github&logoColor=white)](https://github.com/KaranGupta2005)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/KaranGupta2005?label=Stars&style=flat-square&color=0e75b6&labelColor=0d0d0d)](https://github.com/KaranGupta2005)
+[![GitHub Stars](https://img.shields.io/github/stars/KaranGupta2005?label=Stars&style=for-the-badge&color=0e75b6&labelColor=161b22&logo=github&logoColor=white)](https://github.com/KaranGupta2005)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -67,6 +69,7 @@ const karan = {
 - 🏆 **3× Hackathon Winner** — Agentic AI, EV Tech & Consulting tracks
 - 🏢 **Head Dev Intern** at LIFI, an NGO serving 50,000+ students
 - ⚡ **IEEE DTU Executive** — mentored 20+ members in Web & DevOps
+- 🌟 **GirlScript Summer of Code (GSSoC)** contributor
 - 🧩 **480+ problems** solved — LeetCode 1690 | Codeforces 1081
 - 🌱 Deep diving into **System Design**, **LLMs**, and **Cloud**
 
@@ -94,7 +97,7 @@ const karan = {
 
 <div align="center">
 
-**Additional:** &nbsp;
+**Also working with:** &nbsp;
 ![LangGraph](https://img.shields.io/badge/LangGraph-00d4ff?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-7b2ff7?style=flat-square)
@@ -110,28 +113,20 @@ const karan = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; Work Experience
 
-<div align="center">
-<table width="100%">
-<tr>
-<td>
+### 🏢 Head Developer Intern &nbsp;·&nbsp; [LIFI — Learning Initiatives for India](https://lifi.org)
+**`May 2026 – Present`** &nbsp;|&nbsp; 🌐 Remote, New Delhi
 
-### 🏢 Head Developer Intern &nbsp;·&nbsp; [LIFI — Learning Initiatives for India](https://lifi.org) &nbsp; `May 2026 – Present`
+```
+📌 Led a 6-member team in a full platform rebuild serving 50,000+ students across 20 districts
+```
 
-> Led a **6-member engineering team** in a full platform rebuild for an NGO serving **50,000+ students across 20 districts**
+- ⚡ Spearheaded architecture, sprint execution & deployment of **15+ production modules**
+- 💳 Replaced bank-transfer-only system with a **Razorpay-integrated gateway** (UPI, card, net-banking)
+- 📋 Reduced volunteer onboarding form from **10 fields + CAPTCHA → 3 fields** with a 4-step post-submission flow
+- 🐛 Resolved a critical **CSS z-index bug** causing silent form failures on 360–375px mobile screens
+- 🔄 Enforced **mobile-first standards**, Git PR reviews & Agile sprints across all deliverables
 
-| What | Impact |
-|------|--------|
-| 💳 Integrated Razorpay gateway (UPI, card, net-banking) | Replaced bank-transfer-only system — enabled online fundraising for the first time |
-| 📋 Streamlined volunteer onboarding | Reduced form from **10 fields + CAPTCHA → 3 fields** with a 4-step post-flow |
-| 🐛 Fixed production CSS z-index bug | Resolved silent form failures on **360–375px** mobile screens |
-| 🚀 Delivered 15+ modules | Architecture → sprint → production, enforcing mobile-first + Agile standards |
-
-**Stack:** `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Razorpay`
-
-</td>
-</tr>
-</table>
-</div>
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Razorpay` `REST APIs`
 
 ---
 
@@ -142,30 +137,27 @@ const karan = {
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Vihaan 2026 — Event Platform
-[![Website](https://img.shields.io/badge/🌐_Live-Visit-00d4ff?style=flat-square)](https://github.com/KaranGupta2005)
+### 🌐 [Vihaan 2026 — Event Management Platform](https://github.com/KaranGupta2005)
 
-Full-stack event management system supporting **1000+ concurrent users** & **250 teams**.
+Full-stack event management system with real-time sync, state management & resource allocation supporting **1000+ concurrent users** and **250 competing teams**.
 
-- 📉 **40% latency reduction** via optimized PostgreSQL queries & React state
-- 🔐 QR-based judging pipeline with atomic score updates & unique participant IDs
+- 📉 **40% reduction** in registration & event data latency via optimized PostgreSQL queries
+- 🔐 Secure **QR-code-based judging pipeline** with atomic score updates & unique participant IDs
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Voltix — AI EV Charging Platform
-[![Website](https://img.shields.io/badge/🌐_Live-Visit-00d4ff?style=flat-square)](https://github.com/KaranGupta2005/VOLTIX)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranGupta2005/VOLTIX)
+### ⚡ [Voltix — AI-Powered EV Charging Platform](https://github.com/KaranGupta2005/VOLTIX)
 
-AI-powered EV platform with **6 ML models** — demand forecasting, failure prediction, energy optimization.
+AI-powered EV platform integrating **6 ML models** (demand forecasting, failure prediction, energy optimization).
 
-- 🔄 Sub-second decisions via **Socket.IO + Redis pub/sub** across 20+ stations
-- 🤖 LLM chatbot + **blockchain audit trails** via Polygon smart contracts
+- 🔄 Real-time telemetry via **Socket.IO + Redis pub/sub** across **20+ EV stations** — sub-second decisions
+- 🤖 LLM chatbot assistant + **blockchain audit trails** via smart contracts for tamper-proof operations
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -177,35 +169,33 @@ AI-powered EV platform with **6 ML models** — demand forecasting, failure pred
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ MediaGuard Sports — AI DRM
-[![Website](https://img.shields.io/badge/🌐_Live-Visit-00d4ff?style=flat-square)](https://github.com/KaranGupta2005)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranGupta2005)
+### 🛡️ [MediaGuard Sports — AI DRM Enforcement](https://github.com/KaranGupta2005)
 
-**13-agent LangGraph AI swarm** for real-time piracy detection across 12+ streaming platforms.
+Orchestrated a **13-agent LangGraph AI swarm** for real-time piracy detection across **12+ streaming platforms**.
 
-- 🚀 **~60ms/frame** inference via ONNX quantization of CLIP ViT-B/32 — **10–15× speedup**
-- ⛓️ Automated DMCA + **Polygon blockchain** contracts with LLaMA 3.3-70B reasoning
+- 🚀 **~60ms/frame** inference via ONNX Runtime quantization of CLIP ViT-B/32 — **10–15× speedup**
+- ⛓️ Automated DMCA takedowns + **Polygon blockchain smart contracts** with LLaMA 3.3-70B reasoning
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-00d4ff?style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-7b2ff7?style=flat-square)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 More Projects
+### 🧠 More on GitHub →
+
+Explore all my repositories including ML models, web platforms, competitive programming solutions and more.
 
 ```diff
-+ 🏗️  Backend systems & REST APIs
-+ 🤖  ML/AI research implementations  
-+ ⚡  Real-time infrastructure builds
-+ 🧩  DSA & competitive programming
++ Backend systems & REST APIs
++ AI/ML research implementations
++ Real-time infrastructure projects
++ DSA & competitive programming
 ```
 
-<br/>
-
-[![View All](https://img.shields.io/badge/🔗_All_Repositories-KaranGupta2005-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranGupta2005?tab=repositories)
+[![View All Repos](https://img.shields.io/badge/🔗_View_All_Repos-KaranGupta2005-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranGupta2005?tab=repositories)
 
 </td>
 </tr>
@@ -235,20 +225,13 @@ AI-powered EV platform with **6 ML models** — demand forecasting, failure pred
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; Awards & Achievements
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 <table>
-<tr><td>🥇</td><td><strong>1st Place</strong> — CodeZen 2.0 <em>(Agentic AI Track)</em>, GTBIT</td></tr>
-<tr><td>🏆</td><td><strong>Top 5 Finalist</strong> — HackSmart (Battery Smart × AWS), EV Technology Track</td></tr>
-<tr><td>🌍</td><td><strong>Top 106 / 9,000+</strong> — Google Developer Groups Solution Challenge 2026</td></tr>
-<tr><td>⭐</td><td><strong>Top 10 Finalist</strong> — Vihaan 9.0, DTU's flagship national hackathon</td></tr>
-<tr><td>🥇</td><td><strong>1st Place</strong> — Logistics Lockdown (DTU Consulting Group), Operational Strategy</td></tr>
+<tr><td align="center">🥇</td><td><strong>1st Place</strong> — CodeZen 2.0 <em>(Agentic AI Track)</em>, GTBIT</td></tr>
+<tr><td align="center">🏆</td><td><strong>Top 5 Finalist</strong> — HackSmart (Battery Smart × AWS), EV Technology Track</td></tr>
+<tr><td align="center">🌍</td><td><strong>Top 106 / 9,000+</strong> — Google Developer Groups Solution Challenge 2026</td></tr>
+<tr><td align="center">⭐</td><td><strong>Top 10 Finalist</strong> — Vihaan 9.0, DTU's flagship national hackathon</td></tr>
+<tr><td align="center">🥇</td><td><strong>1st Place</strong> — Logistics Lockdown (DTU Consulting Group), Operational Strategy</td></tr>
+<tr><td align="center">🌸</td><td><strong>GirlScript Summer of Code (GSSoC)</strong> — Open Source Contributor</td></tr>
 </table>
 </div>
 
@@ -258,7 +241,7 @@ AI-powered EV platform with **6 ML models** — demand forecasting, failure pred
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=KaranGupta2005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/KaranGupta2005)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=KaranGupta2005&theme=tokyonight&no-frame=true&no-bg=false&column=4&row=2&margin-w=12&margin-h=12)](https://github.com/KaranGupta2005)
 
 </div>
 
@@ -268,9 +251,9 @@ AI-powered EV platform with **6 ML models** — demand forecasting, failure pred
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=KaranGupta2005&theme=tokyonight&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&background=0d1117"/>
+<img height="175" src="https://streak-stats.demolab.com?user=KaranGupta2005&theme=tokyonight&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&background=0d1117"/>
 
 <br/><br/>
 
@@ -284,48 +267,29 @@ AI-powered EV platform with **6 ML models** — demand forecasting, failure pred
 
 ---
 
-## 🐍 &nbsp; Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> &nbsp; Let's Connect
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
+<a href="mailto:guptakaran2026@gmail.com">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="55" alt="Email"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"/>
+<a href="https://www.linkedin.com/in/karangupta3006/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55" alt="LinkedIn"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"/>
+<a href="https://github.com/KaranGupta2005" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" alt="GitHub"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60"/>
+<a href="https://leetcode.com/u/gupta_karan_/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" alt="LeetCode"/>
+</a>
 
 <br/><br/>
 
-**📬 Open to conversations about:**
-
-| | |
-|---|---|
-| 🤖 | Agentic AI, LLMs & multi-agent systems |
-| 🔨 | Full-stack & backend engineering collaborations |
-| 🏆 | Hackathon teams & open-source contributions |
-| 💡 | Tech discussions & knowledge exchange |
-
-<br/>
-
-[![Email](https://img.shields.io/badge/guptakaran2026%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptakaran2026@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/karangupta3006-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karangupta3006/)
+💼 &nbsp;Open to **collaborations** &nbsp;•&nbsp; 🌟 **innovative projects** &nbsp;•&nbsp; 🔗 **open source**
 
 </div>
 
@@ -335,21 +299,9 @@ AI-powered EV platform with **6 ML models** — demand forecasting, failure pred
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-
-<br/>
-
-*If something here caught your eye, drop a ⭐ on a repo — it genuinely means a lot!*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d4ff,100:0e75b6&height=120&section=footer&text=Let%27s+build+something+amazing&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d4ff,100:0e75b6&height=140&section=footer&text=Let%27s+build+something+amazing&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%"/>
 
 <sub>Made with ❤️ in New Delhi &nbsp;·&nbsp; Updated July 2026</sub>
 
