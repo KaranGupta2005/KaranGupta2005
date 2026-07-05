@@ -39,7 +39,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,8,30&height=3" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"/> &nbsp; About Me
 
@@ -75,7 +75,7 @@ const karan = {
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"/> &nbsp; Tech Stack
 
@@ -109,7 +109,7 @@ const karan = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; Work Experience
 
@@ -128,7 +128,7 @@ const karan = {
 
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Razorpay` `REST APIs`
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30px"/> &nbsp; Featured Projects
 
@@ -202,7 +202,7 @@ Explore all my repositories including ML models, web platforms, competitive prog
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30px"/> &nbsp; Competitive Programming
 
@@ -220,7 +220,7 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; Awards & Achievements
 
@@ -235,37 +235,45 @@ Explore all my repositories including ML models, web platforms, competitive prog
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; GitHub Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=KaranGupta2005&theme=tokyonight&no-frame=true&no-bg=false&column=4&row=2&margin-w=12&margin-h=12)](https://github.com/KaranGupta2005)
+<a href="https://github.com/KaranGupta2005">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaranGupta2005&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30px"/> &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
 &nbsp;
-<img height="175" src="https://streak-stats.demolab.com?user=KaranGupta2005&theme=tokyonight&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&background=0d1117"/>
+<img height="180" src="https://streak-stats.demolab.com?user=KaranGupta2005&theme=tokyonight&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&background=0d1117"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGupta2005&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=00d4ff&bg_color=0d1117" width="340"/>
+<div align="center">
 
-<br/><br/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGupta2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00d4ff&bg_color=0d1117"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranGupta2005&theme=tokyo-night&hide_border=true&area=true&line=00d4ff&point=7b2ff7&area_color=0e75b6&custom_title=Contribution+Activity" width="95%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> &nbsp; Let's Connect
 
@@ -293,7 +301,7 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
