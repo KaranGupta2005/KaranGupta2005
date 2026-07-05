@@ -241,9 +241,7 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 <div align="center">
 
-<a href="https://github.com/KaranGupta2005">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaranGupta2005&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</a>
+<img src="https://nirzak-trophies.vercel.app/?username=KaranGupta2005&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -253,7 +251,7 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranGupta2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117&cache_seconds=86400"/>
 &nbsp;
 <img height="180" src="https://streak-stats.demolab.com?user=KaranGupta2005&theme=tokyonight&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&background=0d1117"/>
 
@@ -261,7 +259,8 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGupta2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00d4ff&bg_color=0d1117"/>
+<!-- Static language stats — generated daily by GitHub Actions into /generated/ -->
+<img src="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/main/generated/languages.svg" alt="Top Languages" onerror="this.style.display='none'"/>
 
 </div>
 
@@ -270,6 +269,20 @@ Explore all my repositories including ML models, web platforms, competitive prog
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranGupta2005&theme=tokyo-night&hide_border=true&area=true&line=00d4ff&point=7b2ff7&area_color=0e75b6&custom_title=Contribution+Activity" width="95%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KaranGupta2005/KaranGupta2005/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -305,7 +318,7 @@ Explore all my repositories including ML models, web platforms, competitive prog
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"Write code that's easy to delete, not easy to extend."*
 
 <br/><br/>
 
